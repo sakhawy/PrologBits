@@ -24,3 +24,6 @@ The plan is to fill this repo with the famous sorting/searching algorithms, hope
 - [ ] Linear search
 - [ ] Binary search
 - [X] Now I'm just listing random words and I know I won't be doing half of this shit but ok
+
+# DEMO/Running the programs
+Just copy-paste the code to https://swish.swi-prolog.org/ 
