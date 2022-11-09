@@ -1,2 +1,2 @@
-printlist([X|Y]) :- write(X), printlist(Y), !.
+printlist([X]) :- write(X), !.
 printlist([X|Y]) :- write(X), printlist(Y).
